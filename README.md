@@ -50,7 +50,7 @@ npm run dev
 ---
 
 ## Resources
-- [Better Pay Repo](https://github.com/Muhammad-Owais-Warsi/Better-Pay)
+- [Better Pay repo](https://github.com/Muhammad-Owais-Warsi/Better-Pay)
 - [Better Pay docs](https://better-pay.gitbook.io/better-pay)
 
 
