@@ -1,3 +1,4 @@
+
 ## Razorpay Integration Demo
 
 This is a sample demo application showcasing how to integrate **Razorpay** with **Better Pay**.
@@ -46,5 +47,10 @@ npm run dev
 npm run dev
 
 ```
+---
+
+## Resources
+- [Better Pay Repo](https://github.com/Muhammad-Owais-Warsi/Better-Pay)
+- [Better Pay docs](https://better-pay.gitbook.io/better-pay)
 
 
