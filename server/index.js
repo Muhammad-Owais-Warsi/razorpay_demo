@@ -16,7 +16,7 @@ const provider = new BetterPay({
 
 app.post("/confirm", async (req,res) => {
   const data = req.body;
-  const response = await provider.confirmPayment({
+  const response = await provider.createPaymentLink({
     upiLink: data.upiLink,
     amount: data.amount,
     currency: data.currency,
